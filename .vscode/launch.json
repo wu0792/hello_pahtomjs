@@ -8,16 +8,16 @@
             "name": "Launch",
             "type": "phantomjs",
             "request": "launch",
-            "file": "${workspaceRoot}/src/output_encoding.js",
+            "file": "${workspaceRoot}/src/scan_dir.js",
             "webRoot": "${workspaceRoot}/src",
             "runtimeExecutable": "C:/Program Files/phantomjs/bin/phantomjs.exe",
             "runtimeArgs": [],
             "scriptArgs": [
-                // "${workspaceRoot}/echo_the_args.txt",
-                "--debug",
-                "true",
-                "--cookie-file",
-                "${workspaceRoot}/cookies.txt"
+                "C:/Src/hello_pahtomjs"
+                // "--debug",
+                // "true",
+                // "--cookie-file",
+                // "${workspaceRoot}/cookies.txt"
             ],
             "sourceMaps": false
         }
