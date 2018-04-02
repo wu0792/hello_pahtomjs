@@ -1,0 +1,1 @@
+--debug true --cookie-file C:\Src\hello_pahtomjs/cookies.txt
