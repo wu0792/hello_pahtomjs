@@ -8,13 +8,12 @@
             "name": "Launch",
             "type": "phantomjs",
             "request": "launch",
-            "file": "${workspaceRoot}/src/scan_dir.js",
+            "file": "${workspaceRoot}/src/color_wheel.js",
             "webRoot": "${workspaceRoot}/src",
             "runtimeExecutable": "C:/Program Files/phantomjs/bin/phantomjs.exe",
             "runtimeArgs": [],
             "scriptArgs": [
-                "C:/Src/hello_pahtomjs"
-                // "--debug",
+                // "-v"
                 // "true",
                 // "--cookie-file",
                 // "${workspaceRoot}/cookies.txt"

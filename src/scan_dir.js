@@ -18,5 +18,6 @@ var scanDirectory = function (path) {
         });
     }
 };
+
 scanDirectory(system.args[1]);
 phantom.exit();
