@@ -1,5 +1,4 @@
 var page = require('webpage').create();
-//phantom.outputEncoding="utf-8";
 
 page.onError = function (msg, trace) {
     console.log(msg);
