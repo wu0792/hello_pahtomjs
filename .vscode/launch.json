@@ -8,7 +8,7 @@
             "name": "Launch",
             "type": "phantomjs",
             "request": "launch",
-            "file": "${workspaceRoot}/src/search.js",
+            "file": "${workspaceRoot}/src/baidu_news.js",
             "webRoot": "${workspaceRoot}/src",
             "runtimeExecutable": "C:/Program Files/phantomjs/bin/phantomjs.exe",
             "runtimeArgs": [],
